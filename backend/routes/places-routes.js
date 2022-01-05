@@ -24,4 +24,9 @@ router.get('/:pid',(req,res,next)=>{
     res.json({place:place});
 });
 
+
+
+
+
+
 module.exports = router;
